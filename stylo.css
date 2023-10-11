@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+
+.caixa{
+    background-color: beige;
+    width: 350px;
+    height: 400px;
+    padding: 20px;
+    flex-direction: column;
+    text-align: center;
+    
+}
+
+button{
+    background-color: blue;
+    margin: 15px;
+    padding: 10px;
+    color: white;
+}
+.resul{
+    border: solid 2px black;
+    width: 250px;
+    height: 100px;
+}
